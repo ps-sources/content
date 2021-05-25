@@ -3301,8 +3301,7 @@
         {
             "integrations": "Carbon Black Endpoint Standard",
             "playbookID": "carbonBlackEndpointStandardTestPlaybook",
-            "fromversion": "5.5.0",
-            "is_mockable": false
+            "fromversion": "5.5.0"
         },
         {
             "integrations": "ThreatExchange v2",

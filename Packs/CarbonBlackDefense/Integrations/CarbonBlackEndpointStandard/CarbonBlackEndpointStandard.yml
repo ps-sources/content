@@ -3,7 +3,7 @@ commonfields:
   id: Carbon Black Endpoint Standard
   version: -1
 configuration:
-- defaultvalue: https://defense.conferdeploy.net/
+- defaultvalue: https://defense.conferdeploy.net
   display: URL
   name: url
   required: true
